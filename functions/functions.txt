@@ -1,0 +1,1 @@
+To store all files related to the app functionality (login, registration, etc)

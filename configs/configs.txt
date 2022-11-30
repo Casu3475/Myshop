@@ -1,0 +1,1 @@
+To store all files related to app config (i.e. database access credentials)

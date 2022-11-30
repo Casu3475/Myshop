@@ -1,0 +1,1 @@
+To store all files related to style (images and css files)

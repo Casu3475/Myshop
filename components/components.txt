@@ -1,0 +1,1 @@
+To store all files related to site components (header.html, footer.html, etc)
